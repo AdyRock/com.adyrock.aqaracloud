@@ -1,0 +1,30 @@
+{
+  "id": "com.adyrock.aqaracloud",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "name": {
+    "en": "Aqara Cloud"
+  },
+  "description": {
+    "en": "Solid presence detection with Aqara cloud"
+  },
+  "category": [
+    "appliances"
+  ],
+  "brandColor": "#699CCF",
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Adrian Rockall",
+    "email": "ady@rockalls.uk"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "pair": {
+        "select_region": {
+            "title": "Select Region",
+            "intro": "Select the server region you used when you setup the device in the Aqara app",
+            "region": "Aqara Server Region",
+            "china": "China",
+            "korea": "Korea",
+            "singapore": "Singapore",
+            "europe": "Europe",
+            "russia": "Russia",
+            "usa": "USA",
+            "next": "Next"
+        }
+    }
+}
